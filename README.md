@@ -33,6 +33,6 @@ Deebemos obtener el siguiente redultado:
 
 Hoy en día, la teoría más aceptada por el mundo científico es que el "elemento" u "objeto" que está afectando el fotón y haciendo que este cambie su tracyectoria, crea una historia del foton, que pertenece a otro universo, que afecta a nuestro foton original, si creamos una acumulacion de fotones se crearan multiples historias que se traduciran entrayectorias y seran reflejadas en la pared.
 
-#Autor
+# Autor
 
 Esteban Camilo Archila Bastidas
