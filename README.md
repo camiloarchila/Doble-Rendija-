@@ -29,6 +29,9 @@ Deebemos obtener el siguiente redultado:
 ![](imagenes/jpg1.jpeg)
 
 ![](imagenes/jpg2.jpeg)
+
+Entre mayor sea la distancia entre la rendija y la pared o lugar donde proyectaremos el resultado, se observara mayor separacion entre los fotones 
+
 # Explicacion
 
 Hoy en día, la teoría más aceptada por el mundo científico es que el "elemento" u "objeto" que está afectando el fotón y haciendo que este cambie su tracyectoria, crea una historia del foton, que pertenece a otro universo, que afecta a nuestro foton original, si creamos una acumulacion de fotones se crearan multiples historias que se traduciran entrayectorias y seran reflejadas en la pared.
