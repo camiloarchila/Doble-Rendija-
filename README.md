@@ -16,7 +16,7 @@ En este repositorio observara una simulacion del experimento de la doble rendija
 - por ultimo con la cinta vamos a cubrir las zonas por donde no queremos que la luz pase, tambien podemos utilizar la cinta para corregir las rendijas 
 
 Deebemos obtener el siguiente redultado:
-![](imagenes/)
+![](imagenes/jpg1.peg)
 
 -  luego vamos a crear la base para el trozo de vidrio, haciendo una ranura del ancho del vidrio en el palo de balso y listo tenemos el sistema de la doble rendija asi:
 
