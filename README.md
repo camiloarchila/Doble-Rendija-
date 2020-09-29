@@ -18,12 +18,17 @@ En este repositorio observara una simulacion del experimento de la doble rendija
 
 Deebemos obtener el siguiente redultado:
 
-![](imagenes/jpg1.jpeg)
+![](imagenes/jpg4.jpeg)
 
 -  luego vamos a crear la base para el trozo de vidrio, haciendo una ranura del ancho del vidrio en el palo de balso y listo tenemos el sistema de la doble rendija asi:
 
+![](imagenes/jpg3.jpeg)
+
 # Resultado
 
+![](imagenes/jpg1.jpeg)
+
+![](imagenes/jpg2.jpeg)
 # Explicacion
 
 Hoy en día, la teoría más aceptada por el mundo científico es que el "elemento" u "objeto" que está afectando el fotón y haciendo que este cambie su tracyectoria, crea una historia del foton, que pertenece a otro universo, que afecta a nuestro foton original, si creamos una acumulacion de fotones se crearan multiples historias que se traduciran entrayectorias y seran reflejadas en la pared.
